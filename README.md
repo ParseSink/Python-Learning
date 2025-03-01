@@ -1,6 +1,9 @@
+
 # Python-Learning
-My Python Learning Journey
-This is a collection of projects I am working on to develop Python Skills including learning activities and personal projects utilizing information I have learned
+
+### This is a collection of projects I am working on to develop $\color{red}{\textsf{Python}}$ skills including learning activities and personal projects utilizing information I have learned
+|[Click here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)|
+|---|
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ```
 __________                              _________.__        __    
@@ -9,8 +12,7 @@ __________                              _________.__        __
  |    |     / __ \|  | \/\___ \\  ___/ /        \|  |   |  \    < 
  |____|    (____  /__|  /____  >\___  >_______  /|__|___|  /__|_ \
                 \/           \/     \/        \/         \/     \/
-```
-```
+
                         █████                             
                        █        ██  ███                   
                        █       █                          
